@@ -1,0 +1,14 @@
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.AssemblyInfoInputs.cache
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.AssemblyInfo.cs
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.csproj.CoreCompileInputs.cache
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.dll
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/refint/Ejercicio5.dll
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.pdb
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/bin/Debug/net8.0/Ejercicio5
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/bin/Debug/net8.0/Ejercicio5.deps.json
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/bin/Debug/net8.0/Ejercicio5.runtimeconfig.json
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/bin/Debug/net8.0/Ejercicio5.dll
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/bin/Debug/net8.0/Ejercicio5.pdb
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/Ejercicio5.genruntimeconfig.cache
+/Users/adrianoalmanza/Documents/Universidad/Semestre II/Metodología y Programación Estructurada/Programas/semana 9/Acumulativo/Ejercicio5/obj/Debug/net8.0/ref/Ejercicio5.dll
