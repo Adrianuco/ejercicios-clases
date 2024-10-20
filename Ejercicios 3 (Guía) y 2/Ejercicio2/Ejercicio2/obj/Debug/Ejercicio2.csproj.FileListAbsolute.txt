@@ -1,0 +1,7 @@
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Mi Carpeta\UAM\Periodo 2 - 2024\Metodologia y Programación Estructurada\II Corte\08. Adriano Almanza, Juan Castellón - Evaluación II Corte\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
